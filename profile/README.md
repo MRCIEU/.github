@@ -1,1 +1,1 @@
-[<img src="https://github.com/MRCIEU/.github/blob/1bffa866261a7b341d28b8d0cb99e73a785a8fd1/profile/img/2021-09-15_mrcieu-github-io_cropped.png">](https://mrcieu.github.io/)
+[<img src="https://github.com/MRCIEU/.github/blob/1bffa866261a7b341d28b8d0cb99e73a785a8fd1/profile/img/2021-09-15_mrcieu-github-io_cropped.png" alt="Screenshot of the homepage of the MRC IEU GitHub Pages website, which includes a word cloud of the topics covered by IEU software.">](https://mrcieu.github.io/)
